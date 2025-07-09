@@ -1,4 +1,6 @@
-// @orchestrate
+/**
+ * @orchestrate
+ */
 export default function TestComponentWithProps({ name }: { name: string }) {
     return (
         <div>

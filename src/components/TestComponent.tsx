@@ -1,4 +1,6 @@
-// @orchestrate
+/**
+ * @orchestrate
+ */
 export default function TestComponent() {
     return (
         <div>
